@@ -1,0 +1,3 @@
+[submodule "Measurements/lib"]
+	path = Measurements/lib
+	url = https://github.com/LuchkaOnTheMoon/OctaveLib.git
