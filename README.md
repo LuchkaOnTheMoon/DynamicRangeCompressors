@@ -10,3 +10,5 @@ This folder contains the following examples/support files, all written for GNU O
 - scr_SoftKneeStaticCurve.m: static IN/OUT curve plotting script, both Hard-Knee and Soft-Knee versions; includes Feed-Forward and Feed-Back topologies selection flag, and IN/OUT knee symmetry selection flag too.
 
 ## Measurements
+This folder contains the following measurement scripts, all written for GNU Octave:
+- scr_StaticCurveMeasurement.m: static IN/OUT curve measurement script, for an existing device that has been measured following the instructions/test signals contained in "wav" subfolder. Check README.md in "wav" subfolder for further details.
